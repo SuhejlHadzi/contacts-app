@@ -1,24 +1,39 @@
-# contacts-app
+# Vue Contacts App
+## [See live preview here](https://suhejlhadzi.github.io/contacts-app/)
 
-## Project setup
+![Thumbnail](thumbnail.png)
+
+A simple Contacts App Created with Vue. 
+
+## Getting Started
+
+These instructions will get you a copy of the project up and running on your local machine for development, testing and learning purposes. See deployment for notes on how to deploy the project on a live system.
+
+### Installing
+
+Clone the Repository and run
+
 ```
 npm install
+npm run dev
 ```
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+## Deployment
 
-### Compiles and minifies for production
+To deploy simply run
+
 ```
 npm run build
 ```
 
-### Lints and fixes files
-```
-npm run lint
-```
+## Built With
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+- [Vue](https://vuejs.org/)
+
+## Contributing
+
+Please feel free to send pull request if you want to contribute! 
+
+## Authors
+
+- **SuhejlHadzi** - _Development_ - [SuhejlHadzi](https://github.com/SuhejlHadzi)
